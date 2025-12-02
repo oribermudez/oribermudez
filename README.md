@@ -1,7 +1,8 @@
 <div align="center">
 
 <img src="https://github.com/user-attachments/assets/787d706a-0d4e-4e01-b65a-568f12736170" alt="heythere" width="100%" />
-### Full-Stack Engineer · Frontend-First · UI/UX-Minded Developer
+
+### Full-Stack Engineer · Frontend Specialist · UI/UX-Minded Developer
 
 Crafting interfaces that *feel* as good as they look.  
 Turning product ideas into clean, interactive, production-ready experiences.
@@ -20,4 +21,20 @@ Turning product ideas into clean, interactive, production-ready experiences.
 
 ✨ *“Frontend engineer with product intuition and designer instincts.”* ✨
 
+<br><br>
+
 </div>
+
+## 🎨 My Tech Palette
+
+I think in components, flows, and stories — not just endpoints and pixels.
+
+```txt
+Frontend   → Vue · React  · JavaScript · Tailwind · HTML · CSS  
+Backend    → Node.js · Express · REST APIs · PostgreSQL · GraphQL
+Product    → UX flows · Interactive prototypes · Design systems  
+Tooling    → Git · Webpack · Jest · Figma
+Cloud      → AWS · Serverless · CI/CD
+```
+<div align="center"> <img src="https://skillicons.dev/icons?i=js,ts,vue,react,tailwind,html,css,nodejs,express,postgres,git,aws&perline=6" alt="Tech stack icons" /> </div> 
+
