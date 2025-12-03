@@ -38,3 +38,9 @@ Cloud      → AWS · Serverless · CI/CD
 ```
 <div align="center"> <img src="https://skillicons.dev/icons?i=js,ts,vue,react,tailwind,html,css,nodejs,express,postgres,git,aws&perline=6" alt="Tech stack icons" /> </div> 
 
+## 🧩 What I Love Building
+
+- **Interfaces that feel human** — micro-interactions, subtle animations, clear states, accessibility.  
+- **End-to-end product flows** — from idea → Figma → production.  
+- **Design-driven features** — hierarchy, layout, typography, visual storytelling.  
+- **Maintainable component systems** — patterns, tokens, scalable UIs.
